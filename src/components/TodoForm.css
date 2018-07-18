@@ -1,0 +1,23 @@
+form {
+    position: absolute;
+    margin-top: 90vh;
+    display: inline-block;
+}
+
+input {
+    padding: 0.1rem 1rem;
+    border: 1px solid black;
+    line-height: 2rem;
+}
+
+.submit {
+    text-transform: uppercase;
+    padding: 0.4rem 1rem;
+    line-height: 2rem;
+    cursor: pointer;
+    background-color: black;
+    border: 1px solid red;
+    min-height: 1rem;
+    color: blue;
+    margin-left: 2px;
+}

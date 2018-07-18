@@ -1,0 +1,24 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+ li {
+    padding: 1rem;
+    background-color: rgb(158, 160, 158);
+    border: 1px solid #4aa515;
+    border-radius: 6px;
+    color: #34495e;
+    margin-top: 2rem;
+    margin-left: 1rem;
+ }
+
+ button {
+     display: inline-block;
+     float: right;
+     background-color: darkgoldenrod;
+     color: darkred;
+     margin-left: 2rem;
+ }
